@@ -1,0 +1,29 @@
+.header-div {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  width: 430px;
+  height: 202px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5rem;
+  background-image: url(../header/Img/img.svg);
+  background-size: cover;
+  background-position: center;
+  padding: 1rem;
+}
+
+.header-div h3 {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: "Russo One", sans-serif;
+  margin-bottom: 0.5rem;
+}
+
+.header-div p {
+  color: #ffffff;
+  font-size: 48px;
+  font-family: "Russo One", sans-serif;
+  font-weight: bold;
+  margin: 0;
+}
